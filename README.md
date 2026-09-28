@@ -1,16 +1,22 @@
-## Hi there 👋
+Hello, I'm Divyansh Sharma
 
-<!--
-**divyanshsharma24/divyanshsharma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student at UIT Shimla
 
-Here are some ideas to get you started:
+###  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  Currently learning Python, Git & GitHub, DSA and AI/ML
+*  Interested in Artificial Intelligence & Machine Learning
+*  Participating in hackathons and building projects
+*  Always learning and exploring new technologies
+
+###  Currently Learning
+
+* Python
+* Git & GitHub
+* Data Structures & Algorithms
+* AI & Machine Learning
+
+### 🔗 Connect With Me
+
+* [LinkedIn](www.linkedin.com/in/divyansh-sharma-24d)
+
